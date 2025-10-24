@@ -1,0 +1,50 @@
+{
+  "ambientebeleuchtung": {
+    "enabled": true,
+    "colors": [
+      "#F400FC"
+    ]
+  },
+  "bremssattel": {
+    "enabled": false,
+    "colors": [
+      "#234F04"
+    ]
+  },
+  "diffusor": {
+    "enabled": false,
+    "colors": [
+      "#141616"
+    ]
+  },
+  "felgenfarbe": {
+    "enabled": false,
+    "colors": [
+      "#262626"
+    ]
+  },
+  "lackierung": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF000C09",
+    "flakes": 0.777,
+    "enabled": false
+  },
+  "lenkradmarkierung": {
+    "enabled": false,
+    "colors": [
+      "#FFC700"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe"
+  },
+  "nahtfarbe": {
+    "enabled": false,
+    "colors": [
+      "#FFC700"
+    ]
+  }
+}

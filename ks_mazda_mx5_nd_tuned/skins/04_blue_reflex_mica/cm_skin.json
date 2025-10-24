@@ -1,0 +1,32 @@
+{
+  "bremssattel": {
+    "enabled": false,
+    "colors": [
+      "#FF0000"
+    ]
+  },
+  "felgenfarbe": {
+    "enabled": false,
+    "colors": [
+      "#222222"
+    ]
+  },
+  "lackierung": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFFFFFFF",
+    "flakes": 0.777,
+    "enabled": false
+  },
+  "licensePlate": {
+    "style": "Europe"
+  },
+  "nahtfarbe": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  }
+}
