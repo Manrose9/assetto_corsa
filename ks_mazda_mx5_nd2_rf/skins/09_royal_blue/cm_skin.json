@@ -1,0 +1,44 @@
+{
+  "bremssattel": {
+    "enabled": false,
+    "colors": [
+      "#00172D"
+    ]
+  },
+  "diffusor": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "felgenfarbe": {
+    "enabled": true,
+    "colors": [
+      "#D8B68A"
+    ]
+  },
+  "lackierung": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF000A14",
+    "flakes": 0.777,
+    "enabled": false
+  },
+  "lenkradmarkierung": {
+    "enabled": true,
+    "colors": [
+      "#D8B68A"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe"
+  },
+  "nahtfarbe": {
+    "enabled": true,
+    "colors": [
+      "#D8B68A"
+    ]
+  }
+}
