@@ -1,0 +1,48 @@
+{
+  "ks_mazda_mx5_nd2": [
+    { 
+      "type": "carPaint", 
+      "name": "Lackierung",
+      "texture": "metal_detail.dds",
+      "mapsTexture": "Skin_00_MAP.dds", 
+      "mapsAutoLevel": true, 
+      "defaultColor": "#FFFFFF" 
+    },
+    { 
+      "type": "color", 
+      "name": "Felgenfarbe",
+      "texture": "EXT_Rims_COLOR.dds",
+      "mapsTexture": "EXT_Rims_MAP.dds",
+      "mapsAutoLevel": true, 
+      "defaultColor": "#222222" 
+    },
+    { 
+      "type": "color", 
+      "name": "Nahtfarbe",
+      "texture": "Stitches.png",
+      "autoLevel": true,
+      "defaultColor": "#FFFFFF" 
+    },
+    { 
+      "type": "color", 
+      "name": "Lenkradmarkierung",
+      "texture": "marker.png",
+      "autoLevel": true,
+      "defaultColor": "#AA0000" 
+    },
+    {
+      "type": "color",
+      "name": "Bremssattel",
+      "texture": "EXT_Cup_Details.dds",
+      "key": "EXT_Cup_Calipers",
+      "autoLevel": true,
+      "defaultColor": "#FF0000"
+    },
+    { 
+      "type": "licensePlate", 
+      "style": "Europe", 
+      "texture": "Plate_D.dds",
+      "normals": "Plate_NM.dds" 
+    }
+  ]
+}

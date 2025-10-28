@@ -1,0 +1,48 @@
+{
+  "bremssattel": {
+    "enabled": false,
+    "colors": [
+      "#FF0000"
+    ]
+  },
+  "diffusor": {
+    "enabled": false,
+    "colors": [
+      "#141616"
+    ]
+  },
+  "felgenfarbe": {
+    "enabled": false,
+    "colors": [
+      "#222222"
+    ]
+  },
+  "lackierung": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF0A0A0B",
+    "flakes": 0.777,
+    "enabled": false
+  },
+  "lenkradmarkierung": {
+    "enabled": true,
+    "colors": [
+      "#75001B"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe",
+    "paramCountry": "Germany",
+    "paramPrefix": "CAS M",
+    "paramNumber": "923",
+    "paramPostfix": " "
+  },
+  "nahtfarbe": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  }
+}
